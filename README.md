@@ -10,8 +10,9 @@ I also intend on creating my own tutorial on Shaders development as I get there.
 ## Roadmap
 - [ ] Shadows
 - [ ] Coloured shadows
+- [ ] Reflective water & ice
+- [ ] Volumetric fog
 - [ ] Coloured lighting
-- [ ] Fog
 - [ ] Lensflares
 - [ ] Godrays
 - [ ] PBR surfaces
